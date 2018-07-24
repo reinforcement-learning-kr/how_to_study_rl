@@ -1,10 +1,9 @@
 # how_to_study_rl
-- 강화학습을 공부하고 싶은 분들을 위한 글
+- 강화학습을 공부하고 싶은 분들을 위한 글입니다. 새로 강화학습을 공부하거나 더 깊게 공부를 하고 싶은 분들에게 도움이 되고자하는 마음에서 작성했습니다. 
 
 ## Notice
 - 모든 문서는 [[Wiki](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)]에 있습니다
-- 내용이 이상하거나 부실할 수 있습니다. 많은 분들이 도와주시면 더욱 더 좋은 자료가 될 것이라고 생각합니다!
-- 도움을 주실 분들은 [dnddnjs11@naver.com](dnddnjs11@naver.com)으로 메일 보내주시면 감사하겠습니다 :)
+- 도움을 주실 분들은 [dnddnjs11@naver.com](dnddnjs11@naver.com)으로 메일 보내주시면 감사하겠습니다.
 - 궁금한 내용이 있으신 분들도 메일 주세요! 👍
 
 ## Contents
