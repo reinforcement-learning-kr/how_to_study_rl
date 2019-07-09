@@ -19,6 +19,7 @@
 - 민규식 : [Github](https://github.com/Kyushik), [Facebook](https://www.facebook.com/kyushik.min)
 - 유지원 : [Github](https://github.com/AshleyRyu), [Facebook](https://www.facebook.com/JiwonAshleyRyu)
 - 윤승제 : [Github](https://github.com/sjYoondeltar), [Facebook](https://www.facebook.com/seungje.yoon)
+- 이승재 : [Github](https://github.com/seungjaeryanlee), [Facebook](https://www.facebook.com/ryan.lee.583)
 - 이동민 : [Github](https://github.com/dongminlee94), [Facebook](https://www.facebook.com/dongmin.lee.940419)
 - 이웅원 : [Github](https://github.com/dnddnjs), [Facebook](https://www.facebook.com/dnddnjs)
 - 이의령 : [Github](https://github.com/wooridle), [Facebook](https://www.facebook.com/profile.php?id=100003108093575)
