@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [왜 강화학습을 공부해야하는가](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EC%99%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
+- [왜 강화학습을 공부해야 하는가](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EC%99%9C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 - [우리는 어떻게 강화학습을 공부했는가](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%84-%EA%B3%B5%EB%B6%80%ED%96%88%EB%8A%94%EA%B0%80)
 - [강화학습 관련 노하우](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EA%B4%80%EB%A0%A8-%EB%85%B8%ED%95%98%EC%9A%B0)
 - [강화학습 관련 자료](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EA%B4%80%EB%A0%A8-%EC%9E%90%EB%A3%8C)
