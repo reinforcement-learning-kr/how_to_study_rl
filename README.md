@@ -25,6 +25,7 @@
 - 이의령 : [Github](https://github.com/wooridle), [Facebook](https://www.facebook.com/profile.php?id=100003108093575)
 - 차금강 : [Github](https://github.com/chagmgang), [Facebook](https://www.facebook.com/profile.php?id=100002147815509)
 - 이정우 : [Github](https://github.com/LeejwUniverse), [Facebook](https://www.facebook.com/pungchanL/)
+- 정규열 : [Github](https://github.com/jk96491), [Facebook](https://www.facebook.com/profile.php?id=100002506966239)
 
 ## Revision
 
