@@ -24,6 +24,7 @@
 - 이웅원 : [Github](https://github.com/dnddnjs), [Facebook](https://www.facebook.com/dnddnjs)
 - 이의령 : [Github](https://github.com/wooridle), [Facebook](https://www.facebook.com/profile.php?id=100003108093575)
 - 차금강 : [Github](https://github.com/chagmgang), [Facebook](https://www.facebook.com/profile.php?id=100002147815509)
+- 이정우 : [Github](https://github.com/LeejwUniverse), [Facebook](https://www.facebook.com/pungchanL/)
 
 ## Revision
 
