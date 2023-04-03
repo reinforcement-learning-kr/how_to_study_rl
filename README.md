@@ -23,6 +23,7 @@
 - 이동민 : [Github](https://github.com/dongminlee94), [Facebook](https://www.facebook.com/dongmin.lee.940419)
 - 이웅원 : [Github](https://github.com/dnddnjs), [Facebook](https://www.facebook.com/dnddnjs)
 - 이의령 : [Github](https://github.com/wooridle), [Facebook](https://www.facebook.com/profile.php?id=100003108093575)
+- 이정연 : [Github](https://github.com/curieuxjy), [Facebook](https://www.facebook.com/jungyeon.lee.5667/)
 - 차금강 : [Github](https://github.com/chagmgang), [Facebook](https://www.facebook.com/profile.php?id=100002147815509)
 - 이정우 : [Github](https://github.com/LeejwUniverse), [Facebook](https://www.facebook.com/pungchanL/)
 - 정규열 : [Github](https://github.com/jk96491), [Facebook](https://www.facebook.com/profile.php?id=100002506966239)
